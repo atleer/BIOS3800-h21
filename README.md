@@ -1,6 +1,5 @@
-# Oppgavesett til datalab i BIOS3800 høsten 2021
+# BIOS3800-h21
+Repository for computer lab assignments in the course BIOS3800 Human Physiology fall 2021.
 
-* Oppgaver for datalab i uke 42 og 43
-* Krever ikke forkunnskaper i programmering
-* Logg inn på [jupyterhub.uio.no](jupyterhub.uio.no) for å løse oppgavene
-* Leveres gruppevis i [CANVAS](canvas.uio.no)
+Week 42: Assignment on sampling and signal analysis.
+Week 42: Assignment on simulating electric stimulation of an axon and the resulting membrane potential propagation in a virtual laboratory.
